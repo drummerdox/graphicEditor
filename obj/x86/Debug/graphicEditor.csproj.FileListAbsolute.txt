@@ -1,0 +1,9 @@
+D:\Программы\Progects\Example\graphicEditor\bin\Debug\graphicEditor.exe
+D:\Программы\Progects\Example\graphicEditor\bin\Debug\graphicEditor.pdb
+D:\Программы\Progects\Example\graphicEditor\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Программы\Progects\Example\graphicEditor\obj\x86\Debug\graphicEditor.Form1.resources
+D:\Программы\Progects\Example\graphicEditor\obj\x86\Debug\graphicEditor.Properties.Resources.resources
+D:\Программы\Progects\Example\graphicEditor\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Программы\Progects\Example\graphicEditor\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Программы\Progects\Example\graphicEditor\obj\x86\Debug\graphicEditor.exe
+D:\Программы\Progects\Example\graphicEditor\obj\x86\Debug\graphicEditor.pdb
